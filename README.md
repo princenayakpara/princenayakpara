@@ -76,8 +76,8 @@ const prince = {
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princenayakpara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princenayakpara&theme=radical&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princenayakpara&theme=radical" width="48%" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=princenayakpara&theme=radical" width="48%" alt="GitHub Stats" />
 </div>
 <br/>
 <div align="center">
