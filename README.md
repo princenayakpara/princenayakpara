@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Earth.gif" width="24px"/>
+  <img src="GIF/Earth.gif" width="24px"/>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Hi.gif" width="40px" />
+  <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
 <br/>
@@ -30,9 +30,9 @@
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=princenayakpara&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
-  <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp"/>
+  <img height="150" width="150" src="WEBP/left.webp"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princenayakpara&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp"/>
+  <img height="150" width="150" src="WEBP/right.webp"/>
 </p>
 
 #
@@ -122,20 +122,20 @@
 
 <h1>
   Connect With Me
-  <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Handshake.gif" height="25px"/>
+  <img src="GIF/Handshake.gif" height="25px"/>
 </h1>
 
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/prince-nayakpara-7846b337b/" target="_blank">
-    <code><img height="60" width="60" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/SVG/linkedin.svg"/></code>
+    <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
   </a>
 </p>
 <br/>
 
 <p align="center">
   <a href="https://leetcode.com/u/Prince27507/" target="_blank">
-    <code><img height="60" width="60" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/lc.webp"/></code>
+    <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
   </a>
 </p>
 
@@ -150,4 +150,4 @@
 
 #
 
-![footer](https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/footer.webp)
+![footer](WEBP/footer.webp)
