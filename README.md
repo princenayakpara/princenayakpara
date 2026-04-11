@@ -19,10 +19,10 @@
 <img align="right" height="250" width="400" alt="Coding GIF" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 ### 🚀 About Me
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Complex Full-Stack SaaS Platforms** and **AI-integrated applications**.
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Next.js 14, Docker, System Design & Advanced WebGL**.
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Open Source projects and High-Stakes Hackathons**.
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](mailto:prince.nayakpara.cg@gmail.com) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 🔭 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Complex Full-Stack SaaS Platforms** and **AI-integrated applications**.
+- 🌱 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Next.js 14, Docker, System Design & Advanced WebGL**.
+- 👯 𝙸'𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Open Source projects and High-Stakes Hackathons**.
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](mailto:prince.nayakpara.cg@gmail.com) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖.**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **First, solve the problem. Then, write the code.**
 
@@ -33,15 +33,19 @@
 ### 🤝 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/prince-nayakpara-7846b337b/" target="_blank">
-    <img height="50" width="50" src="SVG/linkedin.svg" alt="LinkedIn"/>
+    <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Prince27507/" target="_blank">
-    <img height="50" width="50" src="WEBP/lc.webp" alt="LeetCode"/>
+    <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@princenayakpara" target="_blank">
     <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Prince1252254" target="_blank">
+    <img height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter / X"/>
   </a>
 </p>
 
