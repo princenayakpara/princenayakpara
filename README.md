@@ -68,8 +68,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=princenayakpara&show_icons=true&hide_border=true&title_color=60a5fa&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princenayakpara&text_color=FFFFFF&bg_color=0d1117&title_color=60a5fa&langs_count=10&layout=compact&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=princenayakpara&show_icons=true&hide_border=true&title_color=60a5fa&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princenayakpara&text_color=FFFFFF&bg_color=0d1117&title_color=60a5fa&langs_count=10&layout=compact&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -90,11 +90,7 @@
 <br/>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princenayakpara/princenayakpara/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/princenayakpara/princenayakpara/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/princenayakpara/princenayakpara/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/princenayakpara/princenayakpara/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation"/>
 </p>
 
 <br/>
